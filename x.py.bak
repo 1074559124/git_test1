@@ -1,0 +1,7 @@
+#!coding:utf-8
+print("1111111")
+def func():
+    print("do something special")
+ 
+def func1():
+    print("sdfsd")
